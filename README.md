@@ -15,7 +15,7 @@
 
 ```yaml
 name: Chandan Sahu
-role: ECE Undergraduate | NIT Rourkela (2022-2026)
+role: ECE Undergraduate | NIT Rourkela (2020-2024)
 focus: Full Stack Development | Embedded Systems | Systems Programming
 currently_learning:
   - Distributed Systems & Cloud Native (Kubernetes, gRPC)
